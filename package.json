@@ -1,0 +1,11 @@
+{
+    "name": "travel-company-administrator",
+    "description": "LINE Beacon Handson",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@line/bot-sdk": "^6.8.3",
+        "dotenv": "^6.2.0",
+        "express": "^4.17.1"
+    }
+}
